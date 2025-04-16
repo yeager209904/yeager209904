@@ -50,10 +50,10 @@ while not model.is_sentient():
 
 ## Project Highlights
 - 🗣️ Indian Language Speech Recognition - Fine-tuning state-of-the-art models for Indian languages
-Whisper-small(([https://github.com/yeager209904/Whisper-small))
-Wav2Vec2-XLS-R-53((https://github.com/yeager209904/Wav2Vec2-XLS-R-53))
-HuBert-large((https://github.com/yeager209904/HuBert-large))
-- 🧠 **[Face Recognition using SVD]((https://github.com/yeager209904/Face_Recognition_using_SVD))** -  Leveraging Singular Value Decomposition for facial recognition
+  [Whisper-small](https://github.com/yeager209904/Whisper-small)
+  [Wav2Vec2-XLS-R-53](https://github.com/yeager209904/Wav2Vec2-XLS-R-53)
+  [HuBert-large](https://github.com/yeager209904/HuBert-large)
+- 🧠 **[Face Recognition using SVD](https://github.com/yeager209904/Face_Recognition_using_SVD)** - Leveraging Singular Value Decomposition for facial recognition
 
 ## Contribution Graph
 
