@@ -72,6 +72,7 @@ mermaidpie title A Day in the Life of an AI Student
     "Reading papers I barely understand" : 20
     "Questioning life choices" : 15
     "Actually making progress" : 10
+
 Let's Connect!
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RqN21qMG9nN2I2dGZjaXpjN2Z6OG95ZDI3djl0cTl5cHRieWR6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
