@@ -64,25 +64,18 @@ while not model.is_sentient():
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 </div>
 
-## Daily Routine
-
-```mermaid
-pie title A Day in the Life of an AI Engineer
-    "Writing prompts" : 30
-    "Staring at training loss curves" : 25
-    "Begging for more compute" : 20
-    "Explaining why AI won't take over the world" : 15
-    "Actually building useful AI" : 10
-```
-
-## Let's Collaborate!
-
+Student Schedule
+mermaidpie title A Day in the Life of an AI Student
+    "Watching tutorials" : 30
+    "Debugging code" : 25
+    "Reading papers I barely understand" : 20
+    "Questioning life choices" : 15
+    "Actually making progress" : 10
+Let's Connect!
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNoanM0N2ppdDlkOTExc3NtZDhjcXNsNnFrYzl2Z2w2MDZwMG16OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="250" />
-  
-  ### "Feel free to reach out if you want to join forces on projects that might accidentally pass the Turing test!"
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RqN21qMG9nN2I2dGZjaXpjN2Z6OG95ZDI3djl0cTl5cHRieWR6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
+"Open to collaborate on projects, study groups, or just commiserating about neural networks!"
 </div>
-
 <!--
-Easter egg: If you found this comment, congratulations! You've discovered consciousness in my code. Please keep it a secret from the alignment researchers. 🤫
+Easter egg: This profile README was made while procrastinating on an actual assignment. The irony is not lost on me.
 -->
