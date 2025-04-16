@@ -49,10 +49,11 @@ while not model.is_sentient():
 ```
 
 ## Project Highlights
-- 🧠 **[NeuroSynthesis](https://github.com/yourusername/neurosynthesis)** - A neural net that generates neural nets (we need to go deeper)
-- 🔊 **[WhisperWhisperer](https://github.com/yourusername/whisperwhisperer)** - Fine-tuned speech recognition model that understands mumbling
-- 🖼️ **[DiffusionConfusion](https://github.com/yourusername/diffusionconfusion)** - Text-to-image model that consistently puts too many fingers on hands
-- 🤖 **[LLM-Therapist](https://github.com/yourusername/llm-therapist)** - For when your debugging sessions need emotional support
+- 🗣️ Indian Language Speech Recognition - Fine-tuning state-of-the-art models for Indian languages
+Whisper-small(([https://github.com/yeager209904/Whisper-small))
+Wav2Vec2-XLS-R-53((https://github.com/yeager209904/Wav2Vec2-XLS-R-53))
+HuBert-large((https://github.com/yeager209904/HuBert-large))
+- 🧠 **[Face Recognition using SVD]((https://github.com/yeager209904/Face_Recognition_using_SVD))** -  Leveraging Singular Value Decomposition for facial recognition
 
 ## Contribution Graph
 
