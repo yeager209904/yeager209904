@@ -13,7 +13,7 @@
 ## About Me
 
 ```python
-ai_engineer = {
+ai_student = {
     "name": "Anerud Thiyagarajan",
     "title": "AI and ML Student | Amrita Vishwa Vidyapeetham",
     "location": "localhost:8888/jupyter",
