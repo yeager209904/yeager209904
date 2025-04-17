@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm [Your Name] ![visitors](https://visitor-badge.glowy.app/badge?page_id=yourusername.yourusername)
+# 👋 Hello World, I'm Anerud Thiyagarajan ![visitors](https://visitor-badge.glowy.app/badge?page_id=yourusername.yeager2099)
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc1YzFvdm52YmowdjBvMjl2Z3hvdXE2NTg3bGZhNm5hMGt1ZnhmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7omQNmgiyjj5sffvZ/giphy.gif" width="300" />
