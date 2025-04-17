@@ -56,12 +56,12 @@ while not model.is_sentient():
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeager209904&theme=react-dark&hide_border=true" width="100%"/>
 
 <div align="center">
   
   ### My Training Progress
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeager209904&theme=dark)
 </div>
 
 Student Schedule
