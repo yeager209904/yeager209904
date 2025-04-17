@@ -64,13 +64,14 @@ while not model.is_sentient():
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeager209904&theme=dark)
 </div>
 
-Student Schedule
-mermaidpie title A Day in the Life of an AI Student
+```mermaid
+pie title A Day in the Life of an AI Student
     "Watching tutorials" : 30
     "Debugging code" : 25
     "Reading papers I barely understand" : 20
     "Questioning life choices" : 15
     "Actually making progress" : 10
+```
 
 Let's Connect!
 <div align="center">
