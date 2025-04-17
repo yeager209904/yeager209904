@@ -1,5 +1,4 @@
-# 👋 Hello World, I'm Anerud Thiyagarajan ![visitors](https://visitor-badge.glowy.app/badge?page_id=yeager2099904.yeager209904)
-
+# 👋 Hello World, I'm Anerud Thiyagarajan ![](https://komarev.com/ghpvc/?username=yeager209904)
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc1YzFvdm52YmowdjBvMjl2Z3hvdXE2NTg3bGZhNm5hMGt1ZnhmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7omQNmgiyjj5sffvZ/giphy.gif" width="300" />
   
