@@ -76,7 +76,7 @@ pie title A Day in the Life of an AI Student
 Let's Connect!
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RqN21qMG9nN2I2dGZjaXpjN2Z6OG95ZDI3djl0cTl5cHRieWR6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
-"Open to collaborate on projects, study groups, or just commiserating about neural networks!"
+  <p>"Open to collaborate on projects, study groups, or just commiserating about neural networks!"</p>
 </div>
 <!--
 Easter egg: This profile README was made while procrastinating on an actual assignment. The irony is not lost on me.
